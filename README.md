@@ -1,7 +1,7 @@
 # Hi there, I'm Marwan Mohammed 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2D7EF7&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React+Enthusiast;Crafting+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2D7EF7&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Bringing+Your+Idea+To+Life" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
