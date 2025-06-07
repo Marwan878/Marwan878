@@ -4,15 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2D7EF7&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React+Enthusiast;Crafting+Digital+Experiences" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Frontend Web Developer** specializing in **React** and modern web technologies. I love crafting clean, responsive, and user-friendly digital experiences that make a difference. Currently seeking opportunities to contribute to innovative projects and grow my expertise in the ever-evolving world of web development.
+I'm a **Frontend Web Developer** specializing in **React** and modern web technologies. I love crafting clean, responsive, and user-friendly digital experiences that make a difference. Currently seeking opportunities to contribute to innovative projects and grow my expertise in the ever-evolving world of web development.
 
-- 🔭 Currently exploring the **Canvas API** to create interactive web experiences
-- 🎯 Open to new opportunities and exciting projects
-- 🎮 Gaming enthusiast when I'm not coding
-- 📍 Based in Egypt
-- 💡 Always eager to learn and adapt to new technologies
+- Open to new opportunities and exciting projects
+- Gaming enthusiast when I'm not coding
+- Always eager to learn and adapt to new technologies
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +47,7 @@ I'm a passionate **Frontend Web Developer** specializing in **React** and modern
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwan878&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
-## 🌟 Currently Learning
+## 💡 Currently Learning
 
 <div align="center">
 
@@ -58,10 +56,6 @@ I'm a passionate **Frontend Web Developer** specializing in **React** and modern
 **🔄 Learning Redux** - Mastering state management for complex applications
 
 **🏗️ Studying Design Patterns** - Building scalable and maintainable code architectures
-
-`Interactive Web Graphics` • `State Management` • `Scalable Architecture` • `Data Visualization`
-
-*"Building robust applications with clean code and dynamic interactions"*
 
 </div>
 
@@ -78,9 +72,5 @@ I'm a passionate **Frontend Web Developer** specializing in **React** and modern
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=marwan878&color=2D7EF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>⭐ From <a href="https://github.com/marwan878">marwan878</a> - Building the web, one component at a time!</i>
+  <i>⭐ From <a href="https://github.com/marwan878">marwan878</a>Want to bring your idea to life? Don't hesitate and contact me!</i>
 </div>
