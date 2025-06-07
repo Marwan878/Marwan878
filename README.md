@@ -41,7 +41,7 @@ I'm a passionate **Frontend Web Developer** specializing in **React** and modern
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marwan878&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marwan878&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwan878&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
