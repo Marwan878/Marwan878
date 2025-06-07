@@ -72,5 +72,5 @@ I'm a **Frontend Web Developer** specializing in **React** and modern web techno
 ---
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/marwan878">marwan878</a>Want to bring your idea to life? Don't hesitate and contact me!</i>
+  <i>⭐ From <a href="https://github.com/marwan878">marwan878</a> Want to bring your idea to life? Don't hesitate and contact me!</i>
 </div>
