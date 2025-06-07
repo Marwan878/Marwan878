@@ -51,7 +51,19 @@ I'm a passionate **Frontend Web Developer** specializing in **React** and modern
 
 ## 🌟 Currently Learning
 
+<div align="center">
 
+**🎨 Exploring Canvas API** - Creating interactive web graphics and dynamic visual experiences
+
+**🔄 Learning Redux** - Mastering state management for complex applications
+
+**🏗️ Studying Design Patterns** - Building scalable and maintainable code architectures
+
+`Interactive Web Graphics` • `State Management` • `Scalable Architecture` • `Data Visualization`
+
+*"Building robust applications with clean code and dynamic interactions"*
+
+</div>
 
 ## 🤝 Let's Connect
 
@@ -66,9 +78,9 @@ I'm a passionate **Frontend Web Developer** specializing in **React** and modern
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=marwanmoh&color=2D7EF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=marwan878&color=2D7EF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/Marwan878">Marwan878</a> - Building the web, one component at a time!</i>
+  <i>⭐ From <a href="https://github.com/marwan878">marwan878</a> - Building the web, one component at a time!</i>
 </div>
