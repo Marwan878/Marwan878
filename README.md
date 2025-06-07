@@ -51,15 +51,7 @@ I'm a passionate **Frontend Web Developer** specializing in **React** and modern
 
 ## 🌟 Currently Learning
 
-<div align="center">
 
-**🎨 Exploring Canvas API** - Creating interactive web graphics and dynamic visual experiences
-
-`Interactive Web Graphics` • `Game Development` • `Data Visualization`
-
-*"Bringing static designs to life with dynamic interactions"*
-
-</div>
 
 ## 🤝 Let's Connect
 
@@ -78,5 +70,5 @@ I'm a passionate **Frontend Web Developer** specializing in **React** and modern
 </div>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/marwanmoh">marwanmoh</a> - Building the web, one component at a time!</i>
+  <i>⭐ From <a href="https://github.com/Marwan878">Marwan878</a> - Building the web, one component at a time!</i>
 </div>
