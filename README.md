@@ -6,8 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Web Developer** specializing in **React** and modern web technologies. I love crafting clean, responsive, and user-friendly digital experiences that make a difference. Currently seeking opportunities to contribute to innovative projects and grow my expertise in the ever-evolving world of web development.
-
+I'm a **Frontend Web Developer** specializing in **React** and modern web technologies. I love crafting clean, responsive, and user-friendly digital experiences that make a difference.
 - Open to new opportunities and exciting projects
 - Gaming enthusiast when I'm not coding
 - Always eager to learn and adapt to new technologies
