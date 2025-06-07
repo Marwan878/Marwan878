@@ -51,15 +51,15 @@ I'm a passionate **Frontend Web Developer** specializing in **React** and modern
 
 ## 🌟 Currently Learning
 
-```javascript
-const marwan = {
-  currentFocus: "Canvas API",
-  goals: ["Interactive Web Graphics", "Game Development", "Data Visualization"],
-  motivation: "Bringing static designs to life with dynamic interactions"
-};
+<div align="center">
 
-console.log(`${marwan.currentFocus} opens up endless possibilities! 🎨`);
-```
+**🎨 Exploring Canvas API** - Creating interactive web graphics and dynamic visual experiences
+
+`Interactive Web Graphics` • `Game Development` • `Data Visualization`
+
+*"Bringing static designs to life with dynamic interactions"*
+
+</div>
 
 ## 🤝 Let's Connect
 
